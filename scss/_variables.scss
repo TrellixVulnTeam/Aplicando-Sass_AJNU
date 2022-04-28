@@ -1,1 +1,14 @@
 $cool-red:red;
+
+@mixin bccartas {
+    background-color: yellow;
+    margin: 20px;
+    color: $cool-red;
+    text-shadow: 2px 2px 5px black;
+};
+$colorestxt:(
+    hc1:blue,
+    hc2:green,
+);
+
+
